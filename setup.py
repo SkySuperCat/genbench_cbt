@@ -17,7 +17,7 @@ REQUIRED_PKGS = [
     # Scikit-learn is needed for some of HF's metrics
     "scikit-learn",
     # Numpy is needed for some of HF's metrics
-    "numpy",
+    "numpy<2",
     "typing_extensions>=4.6",
     "statsmodels>=0.14",
 ]
