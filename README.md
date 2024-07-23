@@ -171,7 +171,7 @@ By submitting to the GenBench CBT, you agree that your submission -- if merged -
 
 ### Sample Submissions
 The GenBench team has provided a few sample task submission to illustrate the usage of the framework and the task submission pipeline.
-- [[Task Submission] Frequency based mathematics (`frequency_based_mathematics`)](https://github.com/GenBench/genbench_cbt/pull/6)
+- [[Task Submission] Frequency based mathematics (`frequency_based_mathematics`)](https://github.com/GenBench/genbench_cbt/pull/1)
 
 In each of this pull requests, you can check the task files under the "File Changed" tab and the automated tests under "Checks" tab.
 
